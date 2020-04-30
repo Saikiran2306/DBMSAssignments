@@ -1,0 +1,31 @@
+1. A database management system (DBMS) is important to modern organizations because:
+Ans: It helps organizations to manage their data. 
+
+2. Facts that are formatted, interpreted or combined can be called:
+Ans: Data
+
+3. Which statement is TRUE about database:
+Ans: Database is a generic name for collecting and storing data
+
+4. The difference between database administrator and data administrator is that:
+Ans: Data administrator has planning role
+
+5. Types of DBMS includes:
+Ans: Enterprise DBMS, Desktop DBMS, Embedded DBMS
+
+6. Identify advantages of combining a procedural language with a non-procedural language.
+Ans: Provides improved performance in some situations
+     Allows batch processing
+     Allows form and report customizations
+
+7. Transaction processing ability in an enterprise DBMS is typically better than the transaction processing ability in a DBMS desktop.
+Ans: True
+
+8. The characteristic of data warehouse:
+Ans: The data in warehouse is optimized for generating reports
+
+9. The characteristic of the fourth DBMS generation:
+Ans: Can store and manipulate unconventional data
+
+10. Persistent is a property for databases. What does it mean?
+Ans: The data should be stored on stable hardware
